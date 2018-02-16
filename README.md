@@ -37,15 +37,15 @@ if ('serviceWorker' in navigator) {
 
 # Websites use PWA for Website Speed
 <ul> 
-<li><a href="http://www.Fekra5.com" rel="dofollow">Fekra5.com</a></li>
-<li><a href="http://www.smallProjectsgulf.com" rel="dofollow">smallProjectsgulf.com</a></li>
+<li><a href="https://www.Fekra5.com" rel="dofollow">Fekra5.com</a></li>
+<li><a href="https://www.smallProjectsgulf.com" rel="dofollow">smallProjectsgulf.com</a></li>
 </ul>
 
 # Websites Appear in Top stories <a href="https://news.google.com/news/?ned=ar_eg&gl=EG&hl=ar-EG" rel="nofollow">Google News</a> because use PWA support
 <ul> 
-<li><a href="http://www.Mogazmasr.com" rel="dofollow">mogazmasr.com</a></li>
-<li><a href="http://www.masr20.com" rel="dofollow">masr20.com</a></li>
-<li><a href="http://www.Aiwaegypt.com" rel="dofollow">aiwaegypt.com</a></li>
+<li><a href="https://www.Mogazmasr.com" rel="dofollow">mogazmasr.com</a></li>
+<li><a href="https://www.masr20.com" rel="dofollow">masr20.com</a></li>
+<li><a href="https://www.Aiwaegypt.com" rel="dofollow">aiwaegypt.com</a></li>
 </ul>
 
 
