@@ -43,9 +43,11 @@ if ('serviceWorker' in navigator) {
 
 # Websites Appear in Top stories <a href="https://news.google.com/news/?ned=ar_eg&gl=EG&hl=ar-EG" rel="nofollow">Google News</a> because use PWA support
 <ul> 
-<li><a href="https://www.Mogazmasr.com" rel="dofollow">mogazmasr.com</a></li>
+<li><a href="https://www.mogazmasr.com" rel="dofollow">mogazmasr.com</a></li>
 <li><a href="https://www.masr20.com" rel="dofollow">masr20.com</a></li>
-<li><a href="https://www.Aiwaegypt.com" rel="dofollow">aiwaegypt.com</a></li>
+<li><a href="https://www.aiwaegypt.com" rel="dofollow">aiwaegypt.com</a></li>
+<li><a href="https://www.filmogaz.com" rel="dofollow">filmogaz.com</a></li>
+
 </ul>
 
 
