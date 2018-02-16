@@ -1,8 +1,8 @@
-var CACHE_NAME = 'my-site-cache-v1';
+var CACHE_NAME = 'Wordpress-cache-v1';
 var urlsToCache = [
   '/',
-  '/styles/main.css',
-  '/script/main.js'
+  '/wp-content/YourThemeName/styles/main.css',
+  '/wp-content/YourThemeName/script/main.js'
 ];
 
 self.addEventListener('install', function(event) {
